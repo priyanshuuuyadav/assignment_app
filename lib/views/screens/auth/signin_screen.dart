@@ -92,7 +92,7 @@ class _SigninScreenState extends State<SigninScreen> {
                 Row(
                   mainAxisAlignment: MainAxisAlignment.center,
                   children: [
-                    Text("don't have an account ? "),
+                    Text("Don't have an account ? "),
                     GestureDetector(
                       onTap: () {
                         Navigator.pushReplacement(

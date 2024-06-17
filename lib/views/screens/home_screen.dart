@@ -23,7 +23,7 @@ class HomeScreen extends StatelessWidget {
               AuthService.signOut(context);
             },
             label: Text(
-              "Logout",
+              "Signout",
               style: TextStyle(color: Colors.red),
             ),
             icon: Icon(
