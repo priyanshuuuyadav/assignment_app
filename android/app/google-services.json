@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "330428956073",
+    "project_id": "learning-priyanshuuuyadav",
+    "storage_bucket": "learning-priyanshuuuyadav.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330428956073:android:b4a3a1de49c8a2c9cf98b8",
+        "android_client_info": {
+          "package_name": "com.appignment_app.appignment_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDPzDiCfVEvG-6sXTCw9mlWOawsNtN8BA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330428956073:android:39fae0933b6d04c0cf98b8",
+        "android_client_info": {
+          "package_name": "com.example.learning"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDPzDiCfVEvG-6sXTCw9mlWOawsNtN8BA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
